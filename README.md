@@ -1,7 +1,6 @@
 ### Hi! I'm Zonary123 👋
 
 - 💻 I’m currently learning Bash, css, javascript, c++.
--
 
 ## How to reach me
 <p align='center'>
@@ -30,5 +29,5 @@
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg"/>
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg"/>
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg"/>
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg"/>
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg"/>
    </p>
