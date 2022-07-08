@@ -5,11 +5,8 @@
 ## How to reach me
 
 <p align="center">
-- 📧 Email:
 <a href="mailto:carlosvarasalonso12@gmail.com"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
-- twitter:
 <a href="https://twitter.com/zonary1232"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;   
-- Instagram: 
 </p>
 
 ## languages
