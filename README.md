@@ -17,8 +17,8 @@
 <b>Learning: </b> Bash, java, c++.
 </div>
 
-<h2 align="center">
-<br> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>
+<h2 align="center"> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>
+<br>
 <p align="center">
      <a    a href="mailto:carlosvarasalonso12@gmail.com"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
      <a href="https://twitter.com/zonary1232"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg"></a>&nbsp;&nbsp;
