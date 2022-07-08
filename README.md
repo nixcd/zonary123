@@ -6,7 +6,7 @@
 <div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
   <div align="center">
-<img src="https://tenor.com/es/ver/black-clover-baby-liebe-gif-20955859" align="right">
+<img src="./src/img/profile.jpg" align="right" width="124px" style="border-radius: 100%;">
      </div>
 <b>Name:</b> Carlos
 <br>
