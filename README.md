@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/06/80/81/068081ee5b913a47003a64f7233825fe.gif" width="100%" height="360px">
+<img src="https://cdn77.picsart.com/189729680000202.gif?to=crop&type=webp&r=40x40&q=50" width="100%" height="300px">
 
 <div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
