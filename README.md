@@ -1,12 +1,12 @@
 
-<img src="https://i.pinimg.com/originals/06/80/81/068081ee5b913a47003a64f7233825fe.gif" width="100%">
+<img src="https://i.pinimg.com/originals/06/80/81/068081ee5b913a47003a64f7233825fe.gif">
 
 <br>
 
 <div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
   <div align="center">
-<img src="./src/img/profile.jpg" align="left-center" width="64px" style="border-radius: 9999px;">
+<img src="./src/img/profile.jpg" align="left-center" width="64px">
      </div>
 <b>Name:</b> Carlos
 <br>
