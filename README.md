@@ -58,14 +58,16 @@
 
 </p>
 
-## 📈 GitHub Stats:
+<h2 align="center">📈 ~ 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ 📈</h2>
 
 <br>
 
- ![zonary123's github stats](https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=onedark)
-
-## Top languages:
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=onedark">
+</p>
+<h2 align="center">~ 𝓣𝓸𝓹 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 ~</h2>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=onedark)](https://github.com/zonary123/github-readme-stats)
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=onedark">
+</p>
