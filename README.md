@@ -3,6 +3,8 @@
 - 💻 I’m currently learning Bash, javascript, java, c++.
 
 ## How to reach me
+
+<p align="center">
 - 📧 Email:
 <a href="mailto:carlosvarasalonso12@gmail.com"><img height="48" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg"></a>&nbsp;&nbsp;
 - twitter:
@@ -39,3 +41,7 @@
 ## Stats
 
 ![zonary123's github stats](https://github-readme-stats.vercel.app/api?username=zonary123&show_icons=true&theme=onedark)
+
+## Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zonary123&layout=compact&theme=onedark)](https://github.com/zonary123/github-readme-stats)
