@@ -3,27 +3,21 @@
 
 <br>
 
-<div>
+<div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
   <div align="center">
 <img src="https://tenor.com/es/ver/black-clover-baby-liebe-gif-20955859" align="right">
-</div>
-<li>
- <b>Name:</b> Carlos</li>
-<li>
+     </div>
+<b>Name:</b> Carlos
+<br>
 <b>Loves:</b> anime, videogames
-</li>
-<li>
+<br>
 <b>Gender:</b> Male
-</li>
-<li>
+<br>
 <b>Hobbys:</b> Tech Stuff, Web Development
-</li>
-<li>
-<b>I’m currently learning Bash, javascript, java, c++.</b>
-</li>
+<br>
+<b>Learning: </b> Bash, javascript, java, c++.
 </div>
-<div>
 
 <h2 align="center">
 <br> 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝 </h2>
