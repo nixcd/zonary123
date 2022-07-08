@@ -1,12 +1,10 @@
 
 <img src="https://i.pinimg.com/originals/06/80/81/068081ee5b913a47003a64f7233825fe.gif" width="100%" height="360px">
 
-<br>
-
 <div align="center">
 <h2 align="center"> 🕹 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🕹 </h2>
-  <div align="center">
-<img src="./src/img/profile.jpg" align="left-center" width="64px">
+     <div align="center">
+          <img src="./src/img/profile.jpg" align="left-center" width="64px">
      </div>
 <b>Name:</b> Carlos
 <br>
@@ -16,7 +14,7 @@
 <br>
 <b>Hobbys:</b> Tech Stuff, Web Development
 <br>
-<b>Learning: </b> Bash, javascript, java, c++.
+<b>Learning: </b> Bash, java, c++.
 </div>
 
 <h2 align="center">
